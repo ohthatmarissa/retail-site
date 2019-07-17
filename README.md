@@ -1,7 +1,7 @@
 # Retail Site 
 
 #### A fully functional retail web application where users can view products by category, sign-in with google or email authentication in Firebase, add items to a cart and checkout
-#### You can check it out here: CURRENT PROJECT NOT DEPLOYED YET
+#### You can check it out here: CURRENT PROJECT: NOT DEPLOYED YET
 
 #### By **Marissa Perry**
 
